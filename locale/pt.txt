@@ -109,4 +109,4 @@ Image_C78A134B_EF23_FC63_41E9_4000F764439E.url = skin/Image_C78A134B_EF23_FC63_4
 ### Description
 
 ### Title
-tour.name = Sem Título 32
+tour.name = MURANO
